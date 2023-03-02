@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estou estudando Front End. <br>Estou a procura de Estágio.
+Sou estudante de Front End. <br>Estou a procura de Estágio.
 
 
 ## 🌐 Socials:
