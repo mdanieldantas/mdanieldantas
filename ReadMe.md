@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Desenvolvedor Full Stack Javascript - Frontend (In Training).
+Desenvolvedor Full Stack Javascript (In Training).
 
 ## 🌐 Socials:
 
