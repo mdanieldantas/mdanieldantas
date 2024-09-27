@@ -4,7 +4,8 @@ Desenvolvedor Full Stack Javascript.
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdanieldantas/) [![Dio_profile](https://img.shields.io/badge/Dio_Profile-%230077B5.svg?=linkedin&logoColor=fff)](https://www.dio.me/users/contatomarcosdgomes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdanieldantas/) [![Dio_profile](https://img.shields.io/badge/Dio_Profile-%230077B5.svg?=linkedin&logoColor=fff)](https://www.dio.me/users/contatomarcosdgomes) ![Portifólio](https://img.shields.io/badge/Portif%C3%B3lio)
+
 
 # 💻 Tech Stack:
 
