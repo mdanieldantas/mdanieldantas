@@ -1,6 +1,14 @@
 # 💫 About Me:
 
-Desenvolvedor Full Stack Javascript.
+Sou Acadêmico de Análise e Desenvolvimento de Sistemas (UNIFOR) e Desenvolvedor Full Stack JavaScript. Atualmente, integro o programa PET-Saúde Digital (Governo Federal / UNIFOR) no Eixo de Soluções Tecnológicas, onde aplico engenharia de requisitos e desenvolvimento de software para a modernização da saúde pública.
+
+Com uma trajetória de 7 anos na Psicologia Clínica, trago para a tecnologia uma visão humanizada e habilidades avançadas em comunicação assertiva, resolução de problemas e escuta analítica — fundamentais para a criação de soluções centradas no usuário e colaboração em equipes multidisciplinares.
+
+🚀 Foco atual: Desenvolvimento Full Stack com Node.js, React e TypeScript.
+
+🏥 Especialidade: Saúde Digital e Interoperabilidade de Sistemas.
+
+🏆 Excelência: Graduado em Psicologia com IRA 9,1 e premiado como Top Student.
 
 ## 🌐 Socials:
 
